@@ -3,8 +3,8 @@
  * Author: Dr. Mark E. Lehr
  * Created on April 22nd, 2020, 12:45 PM
  * Purpose:  Recursion and Comparison with Simulations/Loops/Approximations
- *          Fibonacci and Hash Expectations/Bloom Filter
- *          Factorial with products and logs
+ *           Fibonacci and Hash Expectations/Bloom Filter
+ *           Factorial with products and logs
  */
 
 //System Level Libraries
